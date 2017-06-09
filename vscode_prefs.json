@@ -1,0 +1,10 @@
+{
+	"git.confirmSync": false,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.trimAutoWhitespace": true,
+	"editor.rulers": [80],
+	"files.insertFinalNewline": true,
+	"window.zoomLevel": 0
+}
