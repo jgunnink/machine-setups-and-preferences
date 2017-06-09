@@ -6,5 +6,6 @@
 	"editor.trimAutoWhitespace": true,
 	"editor.rulers": [80],
 	"files.insertFinalNewline": true,
-	"window.zoomLevel": 0
+	"window.zoomLevel": 0,
+	"editor.minimap.enabled": false
 }
