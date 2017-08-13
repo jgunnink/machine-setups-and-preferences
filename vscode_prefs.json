@@ -4,10 +4,19 @@
 	"editor.insertSpaces": false,
 	"editor.detectIndentation": false,
 	"editor.trimAutoWhitespace": true,
-	"editor.rulers": [80],
+	"editor.rulers": [120],
 	"files.insertFinalNewline": true,
 	"window.zoomLevel": 0,
 	"editor.minimap.enabled": false,
 	"git.enableSmartCommit": true,
-	"editor.formatOnSave": true
+	"editor.formatOnSave": true,
+	"prettier.printWidth": 120,
+	"prettier.singleQuote": false,
+	"prettier.trailingComma": "none",
+	"prettier.bracketSpacing": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.parser": "babylon",
+	"prettier.semi": false,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true
 }
